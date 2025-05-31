@@ -1,8 +1,8 @@
-# Student Grade Calculator 🧮
+# Student Grade Calculator
 
 A simple Java console application that calculates total marks, average, and grade of a student based on input marks for five subjects.
 
-## 🚀 Features
+## Features
 
 - Takes student name and marks as input
 - Calculates:
@@ -15,13 +15,13 @@ A simple Java console application that calculates total marks, average, and grad
   - Loops
   - Encapsulation
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - Scanner (for user input)
 - VS Code (or any IDE)
 
-## 📦 How to Run
+## How to Run
 
 1. Clone this repo:
    ```bash
